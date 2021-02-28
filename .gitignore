@@ -7,3 +7,4 @@
 /.idea/*
 *.xml
 npm-debug.log*
+.DS_Store
