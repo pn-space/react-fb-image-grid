@@ -13,7 +13,7 @@ yarn add react-image-lightbox@^5.0.0
 ```js
 // _app.{js,tsx}
 import "react-image-lightbox/style.css";
-import "@pierreneter/react-fb-image-grid/src/css/style.css";
+import "@pierreneter/react-fb-image-grid/es/css/style.css";
 // anywhere
 import FbImageLibrary from "@pierreneter/react-fb-image-grid";
 ```
