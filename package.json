@@ -34,9 +34,9 @@
     "react-dom": "^16.5.2"
   },
   "author": "Mohammad Kashif Sulaiman",
-  "homepage": "https://github.com/Expertizo/react-fb-image-grid",
+  "homepage": "https://github.com/pn-space/react-fb-image-grid",
   "license": "MIT",
-  "repository": "https://github.com/Expertizo/react-fb-image-grid",
+  "repository": "https://github.com/pn-space/react-fb-image-grid",
   "keywords": [
     "react-facebook-images",
     "react-images",
